@@ -1,24 +1,8 @@
 
-/* Your CSS Code here. */
-/* body {
-    margin:20px;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
-    background-color: white;
+div{
+	width: 300px;
+	padding:50px;
+	background-color: lightblue;
+	border: 15px solid blue;
+	margin: 20px;
 }
- */
-/* body{
-    padding: 50px;
-	border-style:solid black;
-    margin: 20px;
-} */
-div {
-    width: 300px;
-    background-color: lightblue;
-    border: 15px solid blue;
-    padding: 50px;
-    margin: 20px; 
-} 
